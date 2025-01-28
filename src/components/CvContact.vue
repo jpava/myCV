@@ -18,7 +18,7 @@
       <li><i class="fa-brands fa-github"></i> Git Hub: <a href="https://github.com/jpava">@jpava</a></li>
       <li><i class="fa-brands fa-gitlab"></i> Git Lab: <a href="https://gitlab.com/pavamorenojuancarlos">@pavamorenojuancarlos</a></li>
       <li><i class="fab fa-instagram"></i> Instagram <a href="https://www.instagram.com/juan.10gs">@juan.10gs</a></li>
-      <li><i class="fa-solid fa-earth-americas"></i> Web <a href="https://boisterous-rabanadas-7c1202.netlify.app">https://boisterous-rabanadas-7c1202.netlify.app/</a></li>
+      <li><i class="fa-solid fa-earth-americas"></i> Web <a href="https://juan-pava-cv.netlify.app">https://juan-pava-cv.netlify.app</a></li>
     </ul>
   </div>
 </template>

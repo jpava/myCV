@@ -100,8 +100,8 @@
         </li>
         <li class="flex items-start gap-3 text-sm group hover:translate-x-1 transition-transform duration-200">
           <i class="fa-solid fa-earth-americas text-blue-400 mt-0.5 w-4"></i>
-          <a href="https://juan-pava-cv.netlify.app" class="text-slate-200 hover:text-blue-400 transition-colors break-all text-xs">
-            juan-pava-cv.netlify.app
+          <a href="https://cv-juancarlospava.netlify.app" class="text-slate-200 hover:text-blue-400 transition-colors break-all text-xs">
+            cv-juancarlospava.netlify.app
           </a>
         </li>
       </ul>
